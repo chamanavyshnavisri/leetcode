@@ -4,14 +4,6 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addnodes(a,b):
-        grater=False
-        if a+b<10:
-            return a+b
-        else:
-            return (a+b)%10
-
-
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy=ListNode(0)
         temp=dummy
