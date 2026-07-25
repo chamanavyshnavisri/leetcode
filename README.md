@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/chamanavyshnavisri/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chamanavyshnavisri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chamanavyshnavisri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
@@ -58,4 +60,8 @@
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/chamanavyshnavisri/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
