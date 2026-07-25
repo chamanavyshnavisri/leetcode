@@ -3,7 +3,7 @@ class Solution:
         n=len(height)
         maxi=0
         i,j=0,n-1
-        while i<n and j>=0:
+        while i<j:
             hei=min(height[i],height[j])
             wid=j-i
             area=wid*hei
