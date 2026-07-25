@@ -7,10 +7,9 @@ class Solution:
         while i<=j:
             if nums[i]**2>nums[j]**2:
                 ans[ind]=nums[i]**2
-                ind-=1
                 i+=1
             else:
                 ans[ind]=nums[j]**2
-                ind-=1
                 j-=1
+            ind-=1
         return ans
