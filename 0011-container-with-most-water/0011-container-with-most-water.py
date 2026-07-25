@@ -8,7 +8,7 @@ class Solution:
             wid=j-i
             area=wid*hei
             maxi=max(maxi,area)
-            if height[i]<height[j]:
+            if height[i]<=height[j]:
                 i+=1
             else:
                 j-=1  
