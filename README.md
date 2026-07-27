@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/chamanavyshnavisri/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chamanavyshnavisri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chamanavyshnavisri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
@@ -34,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -73,4 +76,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
