@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
