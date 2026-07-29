@@ -45,6 +45,7 @@
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chamanavyshnavisri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/chamanavyshnavisri/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -114,8 +116,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chamanavyshnavisri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
