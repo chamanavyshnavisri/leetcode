@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chamanavyshnavisri/leetcode/tree/master/0035-search-insert-position) |
@@ -115,6 +116,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chamanavyshnavisri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
