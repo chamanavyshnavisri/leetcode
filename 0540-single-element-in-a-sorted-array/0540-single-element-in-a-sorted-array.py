@@ -1,6 +1,6 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        n=len(nums)
+        '''n=len(nums)
         if n==1:
             return nums[0]
         if nums[1]!=nums[0]:
@@ -17,6 +17,17 @@ class Solution:
                 low=mid+1
             else:
                 high=mid-1
-        return -1
-
-        return -1
+        return -1'''
+        n=len(nums)
+        if n==1:
+            return nums[0]
+        for i in range(1,n):
+            if i==1:
+                if nums[i-1]!=nums[i]:
+                    return nums[i-1]
+            if i==n-1:
+                if nums[i-1]!=nums[i]:
+                    return nums[i]
+            else:
+                if nums[i-1]!=nums[i] and nums[i+1]!=nums[i]:
+                    return nums[i]
