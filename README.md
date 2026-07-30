@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
