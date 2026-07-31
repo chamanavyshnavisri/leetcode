@@ -1,10 +1,11 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        push=0
-        arr=sorted(Counter(word).values(),reverse=True)
-        n=len(arr)
-        for i in range(n):
-            push+=arr[i]*(i//8 + 1)
-        return push
+       push=0
+       arr=Counter(word)
+       for i,x in enumerate(sorted(arr.values(),reverse=True)):
+            push+=(i//8 + 1)*x
+       return push
+
+       
 
         
