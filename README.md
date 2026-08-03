@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chamanavyshnavisri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chamanavyshnavisri/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/chamanavyshnavisri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
@@ -134,6 +135,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -185,4 +187,8 @@
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
