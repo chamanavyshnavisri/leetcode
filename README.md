@@ -22,6 +22,7 @@
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -67,6 +68,7 @@
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -181,4 +184,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
