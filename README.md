@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chamanavyshnavisri/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
