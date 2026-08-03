@@ -59,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/chamanavyshnavisri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chamanavyshnavisri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -105,6 +106,7 @@
 | [0203-remove-linked-list-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@
 | [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
