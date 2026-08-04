@@ -148,6 +148,7 @@
 | [0020-valid-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/chamanavyshnavisri/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
@@ -211,4 +212,12 @@
 | ------- |
 | [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chamanavyshnavisri/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chamanavyshnavisri/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
