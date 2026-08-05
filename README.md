@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/chamanavyshnavisri/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -151,12 +152,14 @@
 | [0225-implement-stack-using-queues](https://github.com/chamanavyshnavisri/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/chamanavyshnavisri/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chamanavyshnavisri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0141-linked-list-cycle](https://github.com/chamanavyshnavisri/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/chamanavyshnavisri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/3731-find-missing-elements) |
