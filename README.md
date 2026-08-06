@@ -235,6 +235,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chamanavyshnavisri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/chamanavyshnavisri/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/chamanavyshnavisri/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -242,6 +243,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/chamanavyshnavisri/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/chamanavyshnavisri/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -254,6 +256,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chamanavyshnavisri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/chamanavyshnavisri/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -263,6 +266,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chamanavyshnavisri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/chamanavyshnavisri/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
@@ -272,5 +276,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/chamanavyshnavisri/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chamanavyshnavisri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
