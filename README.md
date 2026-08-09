@@ -25,6 +25,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/chamanavyshnavisri/leetcode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -80,6 +81,7 @@
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
@@ -102,6 +104,7 @@
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chamanavyshnavisri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +224,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/chamanavyshnavisri/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 ## Bracket Sequences
 |  |
@@ -307,4 +312,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chamanavyshnavisri/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
