@@ -28,6 +28,7 @@
 | [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/3731-find-missing-elements) |
@@ -189,6 +190,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chamanavyshnavisri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0205-isomorphic-strings](https://github.com/chamanavyshnavisri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
