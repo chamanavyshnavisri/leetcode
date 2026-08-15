@@ -1,9 +1,8 @@
 class Solution:
     def longestSubsequence(self, nums: List[int]) -> int:
-        '''left=0
-        right=0
         xor=0
         maxi=0
+        left=0
         dup=[0]*len(nums)
         if dup==nums:
             return 0
@@ -13,12 +12,12 @@ class Solution:
             if xor==0:
                 right=i
             maxi=max(maxi,right-left)
-        return maxi'''
-        tot=nz=0
+        return maxi
+        '''tot=nz=0
         for i in nums:
             nz |= i>0
             tot^=i
-        return nz*(len(nums)-(not tot))
+        return nz*(len(nums)-(not tot))'''
 
 
         
