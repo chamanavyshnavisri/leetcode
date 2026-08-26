@@ -73,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/chamanavyshnavisri/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0394-decode-string) |
+| [0796-rotate-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chamanavyshnavisri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -370,4 +371,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chamanavyshnavisri/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
