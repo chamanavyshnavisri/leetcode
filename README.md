@@ -33,6 +33,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chamanavyshnavisri/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chamanavyshnavisri/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design
 |  |
 | ------- |
