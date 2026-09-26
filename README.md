@@ -29,6 +29,7 @@
 | [1140-stone-game-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chamanavyshnavisri/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/chamanavyshnavisri/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +82,7 @@
 | [0844-backspace-string-compare](https://github.com/chamanavyshnavisri/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/chamanavyshnavisri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chamanavyshnavisri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/chamanavyshnavisri/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -237,6 +239,7 @@
 | [0205-isomorphic-strings](https://github.com/chamanavyshnavisri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chamanavyshnavisri/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/0496-next-greater-element-i) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
