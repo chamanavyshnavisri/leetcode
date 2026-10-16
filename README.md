@@ -32,6 +32,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chamanavyshnavisri/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/chamanavyshnavisri/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chamanavyshnavisri/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chamanavyshnavisri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chamanavyshnavisri/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -158,6 +159,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chamanavyshnavisri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chamanavyshnavisri/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chamanavyshnavisri/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
