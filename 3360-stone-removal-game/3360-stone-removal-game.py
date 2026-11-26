@@ -1,3 +1,9 @@
 class Solution:
     def canAliceWin(self, n: int) -> bool:
-        return round(sqrt(110 - 2 * n)) % 2 == 1
+        alice=True
+        moves=10
+        while n-moves>=0:
+            n-=moves
+            moves-=1
+            alice=not alice
+        return not alice
